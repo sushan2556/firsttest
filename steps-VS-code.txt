@@ -1,0 +1,7 @@
+git clone <repository>
+cd <repository>
+ls -la to command to show hidden files
+git add  - add the local files to hub
+git status 
+git commit -m "here the commit msg"
+git push
